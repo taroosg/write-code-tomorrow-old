@@ -21,15 +21,17 @@ title: "卒業式祝辞"
 
 ---
 
-## 自力でつくれるか．
+## 振り返りをしよう！
 
 --
 
-![./img/pasta.jpeg](./img/pasta.jpeg)
+### 半年前の自分
+
+<!-- ![./img/pasta.jpeg](./img/pasta.jpeg) -->
 
 --
 
-### 無力 www
+### 今の自分
 
 ---
 
